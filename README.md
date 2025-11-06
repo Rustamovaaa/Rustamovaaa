@@ -2,8 +2,9 @@
 <h3 align="center">🌸 Linguist by mind, Coder by soul 🌸</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF2YzEzaTdrbjBhNjB4bWZoMDdtd3A4eG5kd240cjQ2cWZ5eDZ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3m1N5WEublIFhRZXz/giphy.gif)" width="300" alt="Coding girl gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF2YzEzaTdrbjBhNjB4bWZoMDdtd3A4eG5kd240cjQ2cWZ5eDZ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3m1N5WEublIFhRZXz/giphy.gif" width="300" alt="Coding girl gif">
 </p>
+
 
 ---
 
