@@ -2,7 +2,7 @@
 <h3 align="center">🌸 Linguist by mind, Coder by soul 🌸</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding girl gif">
+  <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding girl gif"> -->
 </p>
 
 ---
@@ -35,13 +35,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
 ---
-
-
-### 🎀 Fun Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Hi hand gif"/>
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="300" alt="Frontend coding gif">
-</p>
 
 > 💬 “Code is like poetry — every line tells a story.”
 
