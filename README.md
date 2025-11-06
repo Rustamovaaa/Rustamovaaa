@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Miss Lady!</h1>
+<h1 align="center">👋 Hi, I'm Nurkhon Rustamova!</h1>
 <h3 align="center">🌸 Linguist by mind, Coder by soul 🌸</h3>
 
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding girl gif"> -->
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF2YzEzaTdrbjBhNjB4bWZoMDdtd3A4eG5kd240cjQ2cWZ5eDZ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3m1N5WEublIFhRZXz/giphy.gif)" width="300" alt="Coding girl gif">
 </p>
 
 ---
@@ -40,8 +40,3 @@
 
 ---
 
-### 📫 Connect with me
-<p align="center">
-  <a href="https://github.com/MissLady"><img src="https://img.shields.io/badge/GitHub-MissLady-181717?logo=github&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?logo=gmail&logoColor=white" /></a>
-</p>
